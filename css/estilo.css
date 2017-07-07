@@ -18,5 +18,10 @@ footer{
 height:150px;
 background-color:#000;
 color:#fff;
-text-align:center;
+}
+.img-circle{
+height:100px;
+}
+nav navbar-nav li a{
+text-align:right;
 }
